@@ -1,8 +1,8 @@
 Создание многооконной программы в Java
 
-![srcreenshot](screenshot1.jpg)
-![srcreenshot](screenshot2.jpg)
-![srcreenshot](screenshot3.jpg)
+![screenshot](screenshot1.jpg)
+![screenshot](screenshot2.jpg)
+![screenshot](screenshot3.jpg)
 
-![srcreenshot](screenshot4.jpg)
-![srcreenshot](screenshot5.jpg)
+![screenshot](screenshot4.jpg)
+![screenshot](screenshot5.jpg)
