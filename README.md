@@ -1,4 +1,3 @@
-# TSN_JavaSE_Lab07
 Создание многооконной программы в Java
 
 ![srcreenshot](screenshot1.jpg)
